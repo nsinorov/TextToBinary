@@ -1,0 +1,15 @@
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\bin\Debug\net6.0\Converter.exe
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\bin\Debug\net6.0\Converter.deps.json
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\bin\Debug\net6.0\Converter.runtimeconfig.json
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\bin\Debug\net6.0\Converter.dll
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\bin\Debug\net6.0\Converter.pdb
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\obj\Debug\net6.0\Converter.csproj.AssemblyReference.cache
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\obj\Debug\net6.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\obj\Debug\net6.0\Converter.AssemblyInfoInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\obj\Debug\net6.0\Converter.AssemblyInfo.cs
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\obj\Debug\net6.0\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\obj\Debug\net6.0\Converter.dll
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\obj\Debug\net6.0\refint\Converter.dll
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\obj\Debug\net6.0\Converter.pdb
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\obj\Debug\net6.0\Converter.genruntimeconfig.cache
+C:\Users\Nikolay Sinorov\Desktop\Converter\Converter\obj\Debug\net6.0\ref\Converter.dll
